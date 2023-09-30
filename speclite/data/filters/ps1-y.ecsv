@@ -16,6 +16,7 @@
 #   url: http://svo2.cab.inta-csic.es/theory/fps/
 # schema: astropy-2.0
 wavelength response
+8990.0 0.0
 9000.0 0.001
 9010.0 0.002
 9020.0 0.002
@@ -217,3 +218,4 @@ wavelength response
 10980.0 0.003
 10990.0 0.003
 11000.0 0.002
+11010.0 0.0
